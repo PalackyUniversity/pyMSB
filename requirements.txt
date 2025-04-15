@@ -1,0 +1,4 @@
+#pymc~=5.9.0
+pygments
+pydantic~=2.8.2
+
